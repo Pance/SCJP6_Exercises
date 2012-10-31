@@ -1,0 +1,1 @@
+This repository contains my solutions to the exercises in the Sun Certified Programmer for Java 6 Study Guide.
